@@ -1,0 +1,17 @@
+GIT COMMANDS
+
+git pull
+git push
+git pull branchname
+
+
+create a branch
+git branch <branch_name>
+git checkout <branch_name>-------to work on the branch
+touch <file_name>---------to create a file with the appropriate ext
+explorer <file_name>------to open the file
+git add. ----------steps to commit changes
+git commit -m "text" ---------steps to commit changes
+git push orgin <branch_name> -------pushing the changes to the branch
+
+
